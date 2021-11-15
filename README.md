@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm shaksiper (yes it comes from that dude)</h1>
+<h1 align="center">Hi 👋, I'm shaksiper</h1>
+<h4 align="center">(yes it comes from that dude)</h3>
 <h3 align="center">neovim is my ideology</h3>
 
 - 🌱 I’m currently learning **Go**
